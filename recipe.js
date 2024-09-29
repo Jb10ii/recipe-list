@@ -1,4 +1,3 @@
-// Get references to the input fields and table body
 const recipeName = document.getElementById('recipeName');
 const recipeIngredients = document.getElementById('recipeIngredients');
 const recipeInstructions = document.getElementById('recipeInstructions');
